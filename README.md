@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hello!
+<p>
+  <a href="https://www.linkedin.com/in/mayashapiro1/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
-<!--
-**mayashapiro19/mayashapiro19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+- 🎓 Currently studying: Engineering Systems & Computing @ University of Guelph
+- 📖 Interested in: data analysis, systems modelling, robotics
+- 🧠 Learning about: circuits, microcontrollers, electronics
+- 🧰 Tools & Languages: Python, MATLAB, C, Java, VS Code, Git
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
