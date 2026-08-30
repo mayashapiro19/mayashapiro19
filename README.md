@@ -11,4 +11,9 @@
 - 🧠 Learning about: circuits, microcontrollers, electronics
 - 🧰 Tools & Languages: Python, MATLAB, C, Java, VS Code, Git
 
-
+### Current project
+<p>
+  <a href="https://github.com/mayashapiro19/table-zamboni">
+    Autonomous Table Cleaning Robot
+  </a>
+</p>
